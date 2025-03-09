@@ -1,6 +1,6 @@
 ## Tableau Visualisations (Tableau visualisation practice)
 
-This repository is to showcase how I have leveraged Tableau as my main data visualisation tools for one of the units that I took back in university days. The repo would consist of 2 folders for 2 data visulisation assignments that I performed, both of which were given top marks among the class. One of the assignments also used TabuVis, which is an interactive visualisation tool for tabular data created by Dr. Quang Vinh Nguyen. You can learn more about the tool [here].(https://sourceforge.net/projects/tabuvis/)
+This repository is to showcase how I have leveraged Tableau as my main data visualisation tools for one of the units that I took back in university days. The repo would consist of 2 folders for 2 data visulisation assignments that I performed, both of which were given top marks among the class. One of the assignments also used TabuVis, which is an interactive visualisation tool for tabular data created by Dr. Quang Vinh Nguyen. You can learn more about the tool [here](https://sourceforge.net/projects/tabuvis/)
 
 ### Assignment 1:
 Consisting of 2 dataset that I used to illustrate different graphing techniques (1 university internal dataset + 1 external dataset)
